@@ -5,7 +5,7 @@ Done so far:
  - Preprocessed dataset: Logs classified into different events; documentation at https://docs.google.com/document/d/12PeiPaygQXKVjj3eWI5UZ43nSOdPuVI6G8jFmEKHdT8/edit?usp=sharing
  - Made windows of size 3 and also based on time
 
-To do (in the next 2 days, pls make PR and upload; call me afterwards so that i merge it; ill forget, lil dumb like that lol)
+To do (in the next 2 days, commit regularly so that we are all on the same page)
 
 Step 1:  Labelling dataset (we will try rule based and unsupervised approaches):
     - Rule based:  E10, E11, and E12 are anomalies encountered during boot of the server. Sequences containing these events can be classified as anomalous. Not perfect, but we can start with this.
